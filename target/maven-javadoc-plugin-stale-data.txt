@@ -1,0 +1,55 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/noorm/Documents/NetBeansProjects/jhtp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/noorm/Documents/NetBeansProjects/jhtp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'jhtp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'jhtp 1.0-SNAPSHOT API'
+ch3
+ch4
+com.mycompany.jhtp
+'C:/Users/noorm/Documents/NetBeansProjects/jhtp/src/main/java/Analysis.java'
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\src\main\java\Analysis.java = 1707005941031
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\src\main\java = 1707003429042
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\allclasses-index.html = 1707005949143
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\allpackages-index.html = 1707005949145
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\Analysis.html = 1707005948993
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\copy.svg = 1707005949169
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\element-list = 1707005949066
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\help-doc.html = 1707005949165
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\index-all.html = 1707005949161
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\index.html = 1707005949131
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\link.svg = 1707005949170
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\member-search-index.js = 1707005949148
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\module-search-index.js = 1707005949146
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\overview-summary.html = 1707005949163
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\overview-tree.html = 1707005949128
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\package-search-index.js = 1707005949147
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\package-summary.html = 1707005949073
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\package-tree.html = 1707005949075
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\package-use.html = 1707005949120
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\script.js = 1707005949168
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\search-page.js = 1707005949173
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\search.html = 1707005949162
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\search.js = 1707005949171
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\stylesheet.css = 1707005949167
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\tag-search-index.js = 1707005949149
+C:\Users\noorm\Documents\NetBeansProjects\jhtp\target\site\apidocs\type-search-index.js = 1707005949148
